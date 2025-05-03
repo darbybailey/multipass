@@ -1,7 +1,7 @@
 # MultiPass
 
 <div align="center">
-  <img src="assets/multipass-logo.png" alt="MultiPass Logo" width="300"/>
+
   <h3>A universal media wallet for personalized content streaming, from Earth to Mars</h3>
   
   ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
